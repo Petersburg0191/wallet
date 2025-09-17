@@ -1,4 +1,4 @@
-ame: Comment on Every New Issue and PR
+name: Comment on Every New Issue and PR
 
 permissions:
   issues: write
